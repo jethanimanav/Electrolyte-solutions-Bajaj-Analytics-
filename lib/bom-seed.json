@@ -1,0 +1,937 @@
+[
+  {
+    "part_code": 971039,
+    "location": "R1",
+    "description": "51E 2W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R2",
+    "description": "51E 1/2W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R4",
+    "description": "5.6K 1/4W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R5",
+    "description": "8.2K 1/4W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R6",
+    "description": "100K 1/4W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R7",
+    "description": "33E 1/4W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R8",
+    "description": "5.6K 1/4W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R9",
+    "description": "620E 1/2W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R10",
+    "description": "4.7E 1/2W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R11",
+    "description": "1K 1/4W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "R18",
+    "description": "820K 1/2W 5%"
+  },
+  {
+    "part_code": 971039,
+    "location": "IC1",
+    "description": "CSC7222 DIP-8"
+  },
+  {
+    "part_code": 971039,
+    "location": "EC1",
+    "description": "10uF/500V  105\u03a9C"
+  },
+  {
+    "part_code": 971039,
+    "location": "EC2",
+    "description": "22uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971039,
+    "location": "EC3",
+    "description": "220uF/25V 105\u03a9C"
+  },
+  {
+    "part_code": 971039,
+    "location": "EC4",
+    "description": "1uF/50V 105\u03a9C"
+  },
+  {
+    "part_code": 971039,
+    "location": "EC5",
+    "description": "100uF/16V  105\u03a9C"
+  },
+  {
+    "part_code": 971039,
+    "location": "PCB_LUG",
+    "description": "6.3mm Vertical PCB Lug"
+  },
+  {
+    "part_code": 971039,
+    "location": "D1",
+    "description": "Diode IN4007"
+  },
+  {
+    "part_code": 971039,
+    "location": "D2",
+    "description": "Diode IN4007"
+  },
+  {
+    "part_code": 971039,
+    "location": "D3",
+    "description": "Diode FR107 1A"
+  },
+  {
+    "part_code": 971039,
+    "location": "D4",
+    "description": "BYV26C Diode"
+  },
+  {
+    "part_code": 971039,
+    "location": "F1",
+    "description": "16A/250V, 6*30mm Ceramic Fuse"
+  },
+  {
+    "part_code": 971039,
+    "location": "VR1",
+    "description": "Varistor VDR-10D561K(11D)"
+  },
+  {
+    "part_code": 971039,
+    "location": "VR2",
+    "description": "Varistor VDR-10D561K(11D)"
+  },
+  {
+    "part_code": 971039,
+    "location": "BZ",
+    "description": "Buzzer"
+  },
+  {
+    "part_code": 971039,
+    "location": "TR1",
+    "description": "BTB16-800 Triac 16A/800V"
+  },
+  {
+    "part_code": 971039,
+    "location": "U1",
+    "description": "78L05 Regulator"
+  },
+  {
+    "part_code": 971039,
+    "location": "Q1",
+    "description": "SS8550"
+  },
+  {
+    "part_code": 971039,
+    "location": "Q2",
+    "description": "SS8550"
+  },
+  {
+    "part_code": 971039,
+    "location": "CX1",
+    "description": "0.1uF/275VAC, Box Cap"
+  },
+  {
+    "part_code": 971039,
+    "location": "Z1",
+    "description": "IN4745A 16V Zener Diode"
+  },
+  {
+    "part_code": 971039,
+    "location": "L1",
+    "description": "Inductor 1.2HM"
+  },
+  {
+    "part_code": 971039,
+    "location": "CN1",
+    "description": "7 Pin 2.54 mm Connector"
+  },
+  {
+    "part_code": 971040,
+    "location": "CN2",
+    "description": "7 Pin 2.54 mm Connector"
+  },
+  {
+    "part_code": 971039,
+    "location": "FAN",
+    "description": "2 Pin 2.54 mm Connector"
+  },
+  {
+    "part_code": 971039,
+    "location": "C1",
+    "description": "104 Ceramic Cap"
+  },
+  {
+    "part_code": 971039,
+    "location": "C6",
+    "description": "103 Ceramic Cap"
+  },
+  {
+    "part_code": 971040,
+    "location": "R1",
+    "description": "100K 1/4W 5%"
+  },
+  {
+    "part_code": 971040,
+    "location": "R2",
+    "description": "1K 1/4W 5%"
+  },
+  {
+    "part_code": 971040,
+    "location": "R3",
+    "description": "1K 1/4W 1%"
+  },
+  {
+    "part_code": 971040,
+    "location": "R4",
+    "description": "470E 1/4W 5%"
+  },
+  {
+    "part_code": 971040,
+    "location": "R5",
+    "description": "470E 1/4W 5%"
+  },
+  {
+    "part_code": 971040,
+    "location": "R6",
+    "description": "5.6K 1/4W 5%"
+  },
+  {
+    "part_code": 971040,
+    "location": "RT1",
+    "description": "Thermister"
+  },
+  {
+    "part_code": 971040,
+    "location": "LED",
+    "description": "5 mm RED LED"
+  },
+  {
+    "part_code": 971040,
+    "location": "K",
+    "description": "Touch Spring"
+  },
+  {
+    "part_code": 971040,
+    "location": "SMG1",
+    "description": "4 Digit 7 Segment Display"
+  },
+  {
+    "part_code": 971040,
+    "location": "U1",
+    "description": "CA6288M/CMS89F6285"
+  },
+  {
+    "part_code": 971040,
+    "location": "CN1",
+    "description": "2 Pin 2.54 mm Connector"
+  },
+  {
+    "part_code": 971040,
+    "location": "C4",
+    "description": "104 Ceramic Cap"
+  },
+  {
+    "part_code": 971040,
+    "location": "C5",
+    "description": "104 Ceramic Cap"
+  },
+  {
+    "part_code": 971040,
+    "location": "C6",
+    "description": "2A472 Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "FUSE",
+    "description": "10A/250V AC, PTH Fuse"
+  },
+  {
+    "part_code": 971064,
+    "location": "IGBT",
+    "description": "G15T120BNR3S  / CRMICRO -Huajing make"
+  },
+  {
+    "part_code": 971064,
+    "location": "IC1",
+    "description": "Highway M812TB 1400W Controller"
+  },
+  {
+    "part_code": 971064,
+    "location": "T1",
+    "description": "Transformer"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC1",
+    "description": "4.7uF/500V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "IC3",
+    "description": "VIPer12A/ DZ-12A SMPS IC"
+  },
+  {
+    "part_code": 971064,
+    "location": "PCB_LUG",
+    "description": "6.3mm Vertical PCB Lug"
+  },
+  {
+    "part_code": 971064,
+    "location": "VR1",
+    "description": "500E Preset Resister (Round)"
+  },
+  {
+    "part_code": 971064,
+    "location": "VDR",
+    "description": "Varistor VDR-10D561K(11D)"
+  },
+  {
+    "part_code": 971064,
+    "location": "22R",
+    "description": "20 k\u03a9   \u03a91% (F) 1/4 W"
+  },
+  {
+    "part_code": 971064,
+    "location": "R10",
+    "description": "820 k\u03a9   \u03a92% (G) 1W"
+  },
+  {
+    "part_code": 971064,
+    "location": "BUZ 1",
+    "description": "Magnetic Buzzer"
+  },
+  {
+    "part_code": 971064,
+    "location": "Q3",
+    "description": "S8050 - BJT NPN TO-92"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC6",
+    "description": "100uF/25V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "D1",
+    "description": "Diode IN4007"
+  },
+  {
+    "part_code": 971064,
+    "location": "D2",
+    "description": "Diode IN4007"
+  },
+  {
+    "part_code": 971064,
+    "location": "D3",
+    "description": "Diode IN4007"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC7",
+    "description": "100uF/25V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC4",
+    "description": "4.7uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "R1",
+    "description": "22\u03a9   \u03a90.1% 1W"
+  },
+  {
+    "part_code": 971064,
+    "location": "C1",
+    "description": "0.1uF/275VAC, Box Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "R2",
+    "description": "330 k\u03a9   \u03a91% (F) 1W"
+  },
+  {
+    "part_code": 971064,
+    "location": "BUZ1",
+    "description": "Magnetic Buzzer"
+  },
+  {
+    "part_code": 971064,
+    "location": "IC2",
+    "description": "78L05 Regulator"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC3",
+    "description": "1uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "R11",
+    "description": "820 k\u03a9   \u03a92% (G) 1W"
+  },
+  {
+    "part_code": 971064,
+    "location": "C3",
+    "description": "0.27uF J 630V Induction Capacitor"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC5",
+    "description": "4.7uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "R25",
+    "description": "10 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971064,
+    "location": "C11",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "C7",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "C12",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "C10",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC9",
+    "description": "100uF/25V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "R23",
+    "description": "1 k\u03a9   \u03a95% (J) 1/4W"
+  },
+  {
+    "part_code": 971064,
+    "location": "C16",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "C14",
+    "description": "220pf (221) Ceramic Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "C15",
+    "description": "100pf (101) Ceramic Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "R22",
+    "description": "20 k\u03a9   \u03a91% (F) 1/4 W"
+  },
+  {
+    "part_code": 971064,
+    "location": "R39",
+    "description": "1 k\u03a9   \u03a95% (J) 1/4W"
+  },
+  {
+    "part_code": 971064,
+    "location": "L1",
+    "description": "Inductor (unknown)"
+  },
+  {
+    "part_code": 971064,
+    "location": "Z1",
+    "description": "0.5 watt 1N4148  18V Zener diodes"
+  },
+  {
+    "part_code": 971064,
+    "location": "C2",
+    "description": "5uf J 400V-275V AC Induction Cooker Capacitor"
+  },
+  {
+    "part_code": 971064,
+    "location": "R4",
+    "description": "820 k\u03a9   \u03a91% (F) 1/2W"
+  },
+  {
+    "part_code": 971064,
+    "location": "R3",
+    "description": "820 k\u03a9   \u03a91% (F) 1/2W"
+  },
+  {
+    "part_code": 971064,
+    "location": "Q2",
+    "description": "S8050 - BJT NPN TO-92"
+  },
+  {
+    "part_code": 971064,
+    "location": "R18",
+    "description": "62 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971064,
+    "location": "R24",
+    "description": "5.1 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971064,
+    "location": "C9",
+    "description": "10nf (103) Ceramic Cap"
+  },
+  {
+    "part_code": 971064,
+    "location": "R16",
+    "description": "30 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC8",
+    "description": "100uF/25V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "D6",
+    "description": "UF4007 MIC 1W"
+  },
+  {
+    "part_code": 971064,
+    "location": "R36",
+    "description": "10 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971064,
+    "location": "R38",
+    "description": "100 k\u03a9   \u03a95% (J) 1/4W"
+  },
+  {
+    "part_code": 971064,
+    "location": "C13",
+    "description": "3A102J 1nF 1000V 100pF Mylar Polyester Film Capacitor"
+  },
+  {
+    "part_code": 971064,
+    "location": "CONTROLLER",
+    "description": "Highway M812TB 1400W Controller"
+  },
+  {
+    "part_code": 971064,
+    "location": "CNR1",
+    "description": "Varistor VDR-10D561K(11D)"
+  },
+  {
+    "part_code": 971064,
+    "location": "78L05",
+    "description": "78L05 Regulator"
+  },
+  {
+    "part_code": 971064,
+    "location": "B1",
+    "description": "D15SB100 15A GLASS PASSIVATED BRIDGE RECTIFIER"
+  },
+  {
+    "part_code": 971064,
+    "location": "RW1 MISSING",
+    "description": "500E Preset Resister (Round)"
+  },
+  {
+    "part_code": 971064,
+    "location": "EC2",
+    "description": "4.7uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971064,
+    "location": "C19",
+    "description": "3A102J 1nF 1000V 100pF Mylar Polyester Film Capacitor"
+  },
+  {
+    "part_code": 971064,
+    "location": "OUT 2 DAMAGE",
+    "description": "Induction screw terminal"
+  },
+  {
+    "part_code": 971064,
+    "location": "BD1",
+    "description": "D15SB100 15A GLASS PASSIVATED BRIDGE RECTIFIER"
+  },
+  {
+    "part_code": 971064,
+    "location": "Q4",
+    "description": "S8550 - BJT PNP TO-92"
+  },
+  {
+    "part_code": 971064,
+    "location": "F1",
+    "description": "FUSE"
+  },
+  {
+    "part_code": 971054,
+    "location": "FUSE",
+    "description": "10A/250V AC, PTH Fuse"
+  },
+  {
+    "part_code": 971054,
+    "location": "IGBT",
+    "description": "G15T120BNR3S  / CRMICRO -Huajing make"
+  },
+  {
+    "part_code": 971054,
+    "location": "IC1",
+    "description": "Highway M812TB 1400W Controller"
+  },
+  {
+    "part_code": 971054,
+    "location": "T1",
+    "description": "Transformer"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC1",
+    "description": "4.7uF/500V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "IC3",
+    "description": "VIPer12A/ DZ-12A SMPS IC"
+  },
+  {
+    "part_code": 971054,
+    "location": "PCB_LUG",
+    "description": "6.3mm Vertical PCB Lug"
+  },
+  {
+    "part_code": 971054,
+    "location": "VR1",
+    "description": "500E Preset Resister (Round)"
+  },
+  {
+    "part_code": 971054,
+    "location": "VDR",
+    "description": "Varistor VDR-10D561K(11D)"
+  },
+  {
+    "part_code": 971054,
+    "location": "22R",
+    "description": "20 k\u03a9   \u03a91% (F) 1/4 W"
+  },
+  {
+    "part_code": 971054,
+    "location": "R10",
+    "description": "820 k\u03a9   \u03a92% (G) 1W"
+  },
+  {
+    "part_code": 971054,
+    "location": "BUZ 1",
+    "description": "Magnetic Buzzer"
+  },
+  {
+    "part_code": 971054,
+    "location": "Q3",
+    "description": "S8050 - BJT NPN TO-92"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC6",
+    "description": "100uF/25V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "D1",
+    "description": "Diode IN4007"
+  },
+  {
+    "part_code": 971054,
+    "location": "D2",
+    "description": "Diode IN4007"
+  },
+  {
+    "part_code": 971054,
+    "location": "D3",
+    "description": "Diode IN4007"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC7",
+    "description": "100uF/25V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC4",
+    "description": "4.7uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "R1",
+    "description": "22\u03a9   \u03a90.1% 1W"
+  },
+  {
+    "part_code": 971054,
+    "location": "C1",
+    "description": "0.1uF/275VAC, Box Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "R2",
+    "description": "330 k\u03a9   \u03a91% (F) 1W"
+  },
+  {
+    "part_code": 971054,
+    "location": "BUZ1",
+    "description": "Magnetic Buzzer"
+  },
+  {
+    "part_code": 971054,
+    "location": "IC2",
+    "description": "78L05 Regulator"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC3",
+    "description": "1uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "R11",
+    "description": "820 k\u03a9   \u03a92% (G) 1W"
+  },
+  {
+    "part_code": 971054,
+    "location": "C3",
+    "description": "0.27uF J 630V Induction Capacitor"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC5",
+    "description": "4.7uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "R25",
+    "description": "10 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971054,
+    "location": "C11",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "C7",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "C12",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "C10",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC9",
+    "description": "100uF/25V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "R23",
+    "description": "1 k\u03a9   \u03a95% (J) 1/4W"
+  },
+  {
+    "part_code": 971054,
+    "location": "C16",
+    "description": "100nf (104) Ceramic Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "C14",
+    "description": "220pf (221) Ceramic Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "C15",
+    "description": "100pf (101) Ceramic Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "R22",
+    "description": "20 k\u03a9   \u03a91% (F) 1/4 W"
+  },
+  {
+    "part_code": 971054,
+    "location": "R39",
+    "description": "1 k\u03a9   \u03a95% (J) 1/4W"
+  },
+  {
+    "part_code": 971054,
+    "location": "L1",
+    "description": "Inductor (unknown)"
+  },
+  {
+    "part_code": 971054,
+    "location": "Z1",
+    "description": "0.5 watt 1N4148  18V Zener diodes"
+  },
+  {
+    "part_code": 971054,
+    "location": "C2",
+    "description": "5uf J 400V-275V AC Induction Cooker Capacitor"
+  },
+  {
+    "part_code": 971054,
+    "location": "R4",
+    "description": "820 k\u03a9   \u03a91% (F) 1/2W"
+  },
+  {
+    "part_code": 971054,
+    "location": "R3",
+    "description": "820 k\u03a9   \u03a91% (F) 1/2W"
+  },
+  {
+    "part_code": 971054,
+    "location": "Q2",
+    "description": "S8050 - BJT NPN TO-92"
+  },
+  {
+    "part_code": 971054,
+    "location": "R18",
+    "description": "62 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971054,
+    "location": "R24",
+    "description": "5.1 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971054,
+    "location": "C9",
+    "description": "10nf (103) Ceramic Cap"
+  },
+  {
+    "part_code": 971054,
+    "location": "R16",
+    "description": "30 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC8",
+    "description": "100uF/25V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "D6",
+    "description": "UF4007 MIC 1W"
+  },
+  {
+    "part_code": 971054,
+    "location": "R36",
+    "description": "10 k\u03a9   \u03a91% (F) 1/4W"
+  },
+  {
+    "part_code": 971054,
+    "location": "R38",
+    "description": "100 k\u03a9   \u03a95% (J) 1/4W"
+  },
+  {
+    "part_code": 971054,
+    "location": "C13",
+    "description": "3A102J 1nF 1000V 100pF Mylar Polyester Film Capacitor"
+  },
+  {
+    "part_code": 971054,
+    "location": "CONTROLLER",
+    "description": "Highway M812TB 1400W Controller"
+  },
+  {
+    "part_code": 971054,
+    "location": "CNR1",
+    "description": "Varistor VDR-10D561K(11D)"
+  },
+  {
+    "part_code": 971054,
+    "location": "78L05",
+    "description": "78L05 Regulator"
+  },
+  {
+    "part_code": 971054,
+    "location": "B1",
+    "description": "D15SB100 15A GLASS PASSIVATED BRIDGE RECTIFIER"
+  },
+  {
+    "part_code": 971054,
+    "location": "RW1 MISSING",
+    "description": "500E Preset Resister (Round)"
+  },
+  {
+    "part_code": 971054,
+    "location": "EC2",
+    "description": "4.7uF/50V  105\u03a9C"
+  },
+  {
+    "part_code": 971054,
+    "location": "C19",
+    "description": "3A102J 1nF 1000V 100pF Mylar Polyester Film Capacitor"
+  },
+  {
+    "part_code": 971054,
+    "location": "OUT 2 DAMAGE",
+    "description": "Induction screw terminal"
+  },
+  {
+    "part_code": 971054,
+    "location": "BD1",
+    "description": "D15SB100 15A GLASS PASSIVATED BRIDGE RECTIFIER"
+  },
+  {
+    "part_code": 971054,
+    "location": "Q4",
+    "description": "S8550 - BJT PNP TO-92"
+  },
+  {
+    "part_code": 974267,
+    "location": "C",
+    "description": "6.8uf/500V 105\u03a9C"
+  },
+  {
+    "part_code": 974267,
+    "location": "R",
+    "description": "22E/ 2W 5% Resistor"
+  },
+  {
+    "part_code": 974267,
+    "location": "FUSE",
+    "description": "12A/250V AC, PTH Fuse"
+  }
+]
